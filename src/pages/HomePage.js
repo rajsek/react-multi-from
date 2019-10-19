@@ -6,7 +6,7 @@ export default function HomePage() {
     <div className="container">
       <h1>Home Page</h1>
       <p>
-        <Link to="/Raja">Raja</Link> on GitHub.
+        <Link to="/SignUp">SignUp</Link>
       </p>
     </div>
   )
